@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1503223878 source:/home/mhcrnl/Documents/Cpp/CppVectorPhoneBook/main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<iterator>
+	<iomanip>
+	"tinyfiledialogs.h"
+	"record.h"
+
+1503103671 source:/home/mhcrnl/Documents/Cpp/CppVectorPhoneBook/tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<sys/stat.h>
+	"tinyfiledialogs.h"
+	<Windows.h>
+	<Shlobj.h>
+	<conio.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+
+1503103671 /home/mhcrnl/Documents/Cpp/CppVectorPhoneBook/tinyfiledialogs.h
+
+1503224282 /home/mhcrnl/Documents/Cpp/CppVectorPhoneBook/record.h
+	<string>
+	<vector>
+
+1503223811 source:/home/mhcrnl/Documents/Cpp/CppVectorPhoneBook/record.cpp
+	"record.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iterator>
+	<iomanip>
+	<cstdlib>
+	<sstream>
+	"tinyfiledialogs.h"
+
